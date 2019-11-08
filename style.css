@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+.startButtons{
+  background-color: white;
+  border-color: #ffa100;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #ffa100;
+  height : 45px;
+  width : 100px
+}
